@@ -51,7 +51,7 @@ To select a Language, set the value of `"LANGUAGE"` of `config.yml` with the val
 - `pt` - Português 🇧🇷
 - `pl` - Polish 🇵🇱
 
-https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6d7da3efcafaf157c/config.yml#L23
+
   
 Your language not listed? Create an issue.
   
@@ -82,8 +82,8 @@ https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6
 To create a custom personality, follow these steps:
 1. Create a `.txt` file like `custom.txt` inside the `instructions` folder.
 2. Add the way you want to bot to act in `custom.txt`
-3. Open the `config.yml` file and locate [line 12](https://github.com/mishalhossin/Discord-AI-Chatbot/blob/2626075fda36fa6463cb857d9885e6b05f438f60/config.json#L12).
-4. Set the value of INSTRUCTIONS at [line 12](https://github.com/mishalhossin/Discord-AI-Chatbot/blob/2626075fda36fa6463cb857d9885e6b05f438f60/config.json#L12) as `"custom"` to specify the custom persona.
+3. Open the `config.yml` file and locate [line 12]
+4. Set the value of INSTRUCTIONS at [line 12] as `"custom"` to specify the custom persona.
 
   
 ⚠️ You don't explicitly need to use the name `custom` for persona name and set it in `config.yml` 
